@@ -11,7 +11,7 @@
     },
     "repo": {
         "dependencies": [
-            "me.hatter:commons:1.39",
+            "com.alibaba:fastjson:1.2.60",
             "org.springframework.boot:spring-boot-starter:1.3.2.RELEASE",
 	    "org.springframework.boot:spring-boot-starter-web:1.3.2.RELEASE"
 	]
